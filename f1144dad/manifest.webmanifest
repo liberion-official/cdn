@@ -1,0 +1,37 @@
+{
+    "name": "Liberion – Web3 Digital State: Identity, Investments, and Business Ecosystem",
+    "short_name": "Liberion",
+    "lang": "en",
+    "dir": "ltr",
+    "start_url": "/?source=pwa",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#151515",
+    "theme_color": "#151515",
+    "orientation": "portrait-primary",
+    "description": "Liberion is a unified Web3 platform for digital identity, secure KYC, investments, and business services. Create your digital passport, access tokenized assets, join verified business clubs, and manage your capital securely with next-gen blockchain technology.",
+    "icons": [
+        {
+            "src": "/icons/192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/mask-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Home",
+            "url": "/"
+        }
+    ]
+}
